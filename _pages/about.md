@@ -1,49 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+*social neuroscience | multimodal communication | human-machine cognition*
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m a Ph.D. Candidate in Cognitive and Computational Communication at [UCLA](https://comm.ucla.edu/person/grace-qiyuan-miao/), supervised by [Prof. Rick Dale](https://comm.ucla.edu/person/rick-dale-2/), Prof. [Matthew Lieberman](https://www.uclascnlab.com/people), Prof. [Tanya Stivers](https://sites.google.com/g.ucla.edu/tanya-stivers/home), and Prof. [Francis Steen](https://comm.ucla.edu/person/francis-steen/).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+How do people form meaningful connections, with other human and with artificial intelligence? How does the brain distinguish between deep and shallow interactions? How can we better interpret human dynamics—neural, behavioral, and conversational—to inform practical interventions? These are the questions driving my PhD research, with an attempt to understand and approach the increasingly prevalent and dangerous social phenomenon—the [loneliness epidemic](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My work utilizes naturalistic experiments, computational methods, and qualitative conversation analysis to explore the multifaceted nature of human interactions, encompassing its neural, behavioral, social, and linguistic dimensions. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+At the [UCLA Social Cognitive Neuroscience (SCN) Lab](https://www.uclascnlab.com/) led by Prof. [Matthew Lieberman](https://scholar.google.com/citations?user=BbxU8lwAAAAJ&hl=en&oi=ao), I conduct experiments using functional near-infrared spectroscopy (fNIRS) to understand what happens in the brain between two people who are getting to know each other for the first time. In this **ConvoConnect** (Conversations and Connections) project, some participants are asked to talk about a variety of shallow topics (eg. the weather today), whereas other participants talk about deeper issues (eg. the last time you cried in front of someone else). We found that discussing deeper topics can promote more interpersonal connections compared to shallow topics. Our findings related to neural synchrony, brain states, and neural prediction are in preparation. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[gif neural synchrony]
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[gif 2 participants talking to each other]
 
-**Markdown generator**
+At the Communicative Mind ([Co-Mind](https://co-mind.org/)) Lab led by Prof. [Rick Dale](https://scholar.google.com/citations?user=U_YU27IAAAAJ&hl=en&oi=ao), I use computational methods to process experiment data and simulated data. Collaborating with [Joyce Jiang](https://www.jiangyanru.com/), we utilized a deep neural network (DNN) approach for integrating neural activities and facial expressions. We developed metrics like synchrony, clustering, and volume to evaluate the representation space. Our methods pipeline has been [published as a CogSci Proceeding](https://escholarship.org/uc/item/2pj0b5qb). Our findings related to multimodality vs. unimodality are in preparation. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+[gif moving dots]
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Contributing to the NSF grant *Identifying Multimodal Signatures of Coordination to Understand Joint Performance in Diverse Tasks* led by Dr. [Alexia Galati](https://alexiagalati.tumblr.com/), we developed a computational framework to capture the interpersonal dynamics during collaboration. A key feature of this framework is the inclusion of a task context that mediates interactions. We also included states of communication—active, inactive, and inhibitory—in the context. Simulation results show that these task constraints can be a robust predictor of simulated agents’ behaviors over time. We also found that, for turn-taking patterns to appear, the context matrix contained at least one inhibitory parameter 99.8% of the time. Our paper has been published at *Scientific Reports*: https://www.nature.com/articles/s41598-023-41516-4.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[figure C matrix]
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Working with Prof. [Tanya Stivers](https://scholar.google.com/citations?user=Redr2DYAAAAJ&hl=en&oi=ao), I conduct qualitative research using Conversation Analysis. People tend to agree with one another in conversations to build rapport. However, the ability to “be blunt” seems to be an important defining characteristic of true friends. In collaboration with [Keith Cox](https://scholar.google.com/citations?user=3bM3x_wAAAAJ&hl=en&oi=sra), I analyze the assessments participants make in the ConvoConnect dataset to understand how risk-taking practices manifest in getting-to-know-you conversations.
+
+As a passion-driven researcher with a love for meaningful connections, I strive to bridge the longstanding divide between qualitative and quantitative methods to decode the mystery behind human connections, vibes, and relationships--ultimately addressing the loneliness epidemic. To learn more about this endeavor, please read about the DIMS Conference I host [link].
+
+In my free time, I love snowboarding, food tasting, rock climbing, cooking, and traveling. I’ve snowboarded at various ski resorts in California, Utah, and Alaska, and I recently went to Santiago, Chile!
+
