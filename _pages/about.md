@@ -16,10 +16,10 @@ My work utilizes **naturalistic experiments**, **computational methods**, and **
 
 At the [UCLA Social Cognitive Neuroscience (SCN) Lab](https://www.uclascnlab.com/) led by Prof. [Matthew Lieberman](https://scholar.google.com/citations?user=BbxU8lwAAAAJ&hl=en&oi=ao), I conduct experiments using functional near-infrared spectroscopy (**fNIRS**) to understand what happens in the brain between two people who are getting to know each other for the first time. In this Conversations and Connection (**ConvoConnect**) project, some participants are asked to talk about a variety of shallow topics (eg. the weather today), whereas other participants talk about deeper issues (eg. the last time you cried in front of someone else). We found that discussing deeper topics can promote more interpersonal connections compared to shallow topics. Our findings related to neural synchrony, brain states, and neural prediction are in preparation. 
 
-[gif neural synchrony]
+![An animated gif showing the experiment setup for ConvoConnect, where two participants equipped with fNIRS sit across each other having a conversation](images/ConvoConnect_Setup.gif)
+
 ![An animated gif for neural synchrony](images/NeuralSynchrony.gif)
 
-[gif 2 participants talking to each other]
 
 At the Communicative Mind ([Co-Mind](https://co-mind.org/)) Lab led by Prof. [Rick Dale](https://scholar.google.com/citations?user=U_YU27IAAAAJ&hl=en&oi=ao), I use computational methods to process experiment data and simulated data. Collaborating with [Joyce Jiang](https://www.jiangyanru.com/), we utilized a deep neural network (DNN) approach for integrating neural activities and facial expressions. We developed metrics like synchrony, clustering, and volume to evaluate the representation space. Our methods pipeline has been [published as a CogSci Proceeding](https://escholarship.org/uc/item/2pj0b5qb). Our findings related to multimodality vs. unimodality are in preparation. 
 
