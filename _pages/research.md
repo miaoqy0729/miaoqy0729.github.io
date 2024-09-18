@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
+  - /research.html/
 ---
 
 
@@ -32,4 +32,4 @@ Working with Prof. [Tanya Stivers](https://scholar.google.com/citations?user=Red
 
 
 
-As a **passion-driven** researcher with a love for **meaningful connections**, I strive to **bridge the longstanding divide** between qualitative and quantitative methods to decode the mystery behind <u>human connections, vibes, and relationships</u>--ultimately addressing the <u>loneliness epidemic</u>. To learn more about this endeavor, please check out the [DIMS Conference](/dims) I host, which **brings together experts** to explore dynamic interactions and methodologies in this field.
+As a **passion-driven** researcher with a love for **meaningful connections**, I strive to **bridge the longstanding divide** between qualitative and quantitative methods to decode the mystery behind <u>human connections, vibes, and relationships</u>--ultimately addressing the <u>loneliness epidemic</u>. To learn more about this endeavor, please check out the [DIMS Conference](/dims/) I host, which **brings together experts** to explore dynamic interactions and methodologies in this field.
