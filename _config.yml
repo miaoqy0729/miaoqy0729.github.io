@@ -212,7 +212,13 @@ collections:
   about:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  dims:
     output: true
     permalink: /:collection/:path/
 
