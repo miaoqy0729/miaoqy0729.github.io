@@ -14,6 +14,7 @@ Recent Publications
 **Miao, G.Q.**, Dale, R., & Galati, A. (2023). (Mis) align: a simple dynamic framework for modeling interpersonal coordination. *Scientific Reports, 13*(1), 18325. 
 [Online Access](https://www.nature.com/articles/s41598-023-41516-4) \| [Download PDF](/files/Miao_Dale_Galati_2023_Misalign_Framework_Modeling_SciRep.pdf)
 
+<br>
 
 Manuscripts In Preparation
 ------
@@ -30,6 +31,7 @@ Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under 
 Steen, F., DeLiema, D. & **Miao, G.Q.** (in prep). *“Remember… you can always just”: Approaching the Zone of 
 Proximal Development.*
 
+<br>
 
 CV
 ------
