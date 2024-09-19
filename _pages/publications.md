@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /publications.html
 ---
+Recent Publications
 ------
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (2024). A Deep Neural Network Approach for Integrating Neural and Behavioral Signals: Multimodal Investigation with fNIRS Hyperscanning and Facial Expressions. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*. Austin, TX: Cognitive Science Society.
 [Online Access](https://escholarship.org/uc/item/2pj0b5qb) \| [Download PDF](/files/Miao_etal_2024_DNN_Neural_Facial_CogSci.pdf)
