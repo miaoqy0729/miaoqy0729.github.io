@@ -6,4 +6,4 @@ redirect_from:
   - /dims.html
 ---
 
-[DIMS program here]
+[DIMS program in progress, yet to be uploaded]
