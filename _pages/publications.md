@@ -24,7 +24,7 @@ Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under 
 
 **Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
-**Miao, G.Q.**, Lee, A.J., Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
+**Miao, G.Q.**\*, Lee, A.J.\*, Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
 
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
