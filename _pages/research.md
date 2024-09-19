@@ -23,7 +23,7 @@ Contributing to the NSF grant *Identifying Multimodal Signatures of Coordination
 
 ![Context matrix illustration, Figure 1 from the Scientific Reports paper](/images/Cmatrix.png)
 
-<br>
+
 Working with Prof. [Tanya Stivers](https://scholar.google.com/citations?user=Redr2DYAAAAJ&hl=en&oi=ao), I conduct qualitative research using Conversation Analysis. People tend to agree with one another in conversations to build rapport. However, the ability to “be blunt” seems to be an important defining characteristic of true friends. In collaboration with [Keith Cox](https://scholar.google.com/citations?user=3bM3x_wAAAAJ&hl=en&oi=sra), I analyze the assessments participants make in the ConvoConnect dataset to understand how risk-taking practices manifest in getting-to-know-you conversations.
 
 <br>
