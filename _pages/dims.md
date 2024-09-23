@@ -6,21 +6,22 @@ redirect_from:
   - /dims.html
 ---
 
-![DIMS program cover page (part 1: Title, dates, location, and descriptions)](/images/DIMS_p1-1.png)
-![DIMS program cover page (part 2: Moving images demonstration of multimodal synthesis)](/images/DIMS_p1-2.gif)
-![DIMS program cover page (part 3: page ending)](/images/DIMS_p1-3.png)
+<img src="/images/DIMS_p1-1.png" alt="DIMS program cover page (part 1: Title, dates, location, and descriptions)" style="width:80%;">
+<img src="/images/DIMS_p1-2.gif" alt="DIMS program cover page (part 2: Moving images demonstration of multimodal synthesis)" style="width:80%;">
+<img src="/images/DIMS_p1-3.png" alt="DIMS program cover page (part 3: page ending)" style="width:80%;">
 
 <br>
-![DIMS program People page](/images/DIMS_p2.png)
+<img src="/images/DIMS_p2.png" alt="DIMS program People page" style="width:80%;">
 
 <br>
-![DIMS Program-At-A-Glance page](/images/DIMS_p3.png)
+<img src="/images/DIMS_p3.png" alt="DIMS Program-At-A-Glance page" style="width:80%;">
 
 <br>
-![DIMS program Activity Types page](/images/DIMS_p4.png)
+<img src="/images/DIMS_p4.png" alt="DIMS program Activity Types page" style="width:80%;">
 
 <br>
-![DIMS program Readings before Attending page](/images/DIMS_p5.png)
+<img src="/images/DIMS_p5.png" alt="DIMS program Readings before Attending page" style="width:80%;">
+
 
 <br>
 PDFs of the reading materials can be accessed [here](https://ucla.app.box.com/s/znatnsyudpwzogdnurykjc13qxn63j0j).
