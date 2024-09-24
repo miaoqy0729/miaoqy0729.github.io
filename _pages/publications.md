@@ -15,12 +15,17 @@ Recent Publications
 
 
 
-
-Manuscripts In Preparation
+Manuscripts Under Review
 ------
 **Miao, G.Q.** & Stivers. T. (Under Review). *Activity transitions and persuasion: Using growth charts in pediatric consultations.*
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.*
+
+
+
+Manuscripts In Preparation
+------
+**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A. & Dale, R. (in prep). *Conversation depth and connection: An fNIRS study of neural synchrony in the default mode network.*
 
 **Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
@@ -28,12 +33,13 @@ Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under 
 
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
-Steen, F., DeLiema, D. & **Miao, G.Q.** (in prep). *“Remember… you can always just”: Approaching the Zone of 
-Proximal Development.*
+Horton, C.J., **Miao, G.Q.**, Walsh, L.C., Rodriguez, A. & Kaufman, V.A. (in prep). *Best friends forever: predictors, correlates, and outcomes of best-friend selection in a large sample survey study.* 
+
+Steen, F., DeLiema, D. & **Miao, G.Q.** (in prep). *“Remember… you can always just”: Approaching the Zone of Proximal Development.*
 
 
 
 
 CV
 ------
-Download my [CV here](/files/Miao_CV). (PS: This link doesn't work. CV yet to be uploaded.)
+Download my [CV here](/files/Miao_CV.pdf).
