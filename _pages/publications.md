@@ -35,6 +35,8 @@ Manuscripts In Preparation
 
 Horton, C.J., **Miao, G.Q.**, Walsh, L.C., Rodriguez, A. & Kaufman, V.A. (in prep). *Best friends forever: predictors, correlates, and outcomes of best-friend selection in a large sample survey study.* 
 
+Binnquist, A.L., Dolbier, S., **Miao, G.Q.**, Dieffenbach, M., Tabak, B., Muldowney, S., & Lieberman, M.D. (in prep). *Brain state dynamics of cross-ideological communication and interpersonal bonding.*
+
 Steen, F., DeLiema, D. & **Miao, G.Q.** (in prep). *“Remember… you can always just”: Approaching the Zone of Proximal Development.*
 
 
