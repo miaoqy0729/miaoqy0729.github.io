@@ -7,6 +7,8 @@ redirect_from:
 ---
 Recent Publications
 ------
+**Miao, G.Q.** & Stivers. T. (In Press). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.*
+
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (2024). A Deep Neural Network Approach for Integrating Neural and Behavioral Signals: Multimodal Investigation with fNIRS Hyperscanning and Facial Expressions. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Meeting of the Cognitive Science Society* (pp. 5630-5638). Austin, TX: Cognitive Science Society.<br>
 [Online Access](https://escholarship.org/uc/item/2pj0b5qb) \| [Download PDF](/files/Miao_etal_2024_DNN_Neural_Facial_CogSci.pdf)
 
@@ -17,8 +19,6 @@ Recent Publications
 
 Manuscripts Under Review
 ------
-**Miao, G.Q.** & Stivers. T. (Under Review). *Activity transitions and persuasion: Using growth charts in pediatric consultations.*
-
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.*
 
 
