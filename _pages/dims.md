@@ -26,4 +26,4 @@ redirect_from:
 <br>
 PDFs of the reading materials can be accessed [here](https://ucla.app.box.com/s/znatnsyudpwzogdnurykjc13qxn63j0j).
 <br>
-Please RSVP [here](https://forms.gle/JeNtbceEFFmwcqLy7).
+If you'd like to access video recordings or PDF materials from the conference, please send Grace an email at q.miao@ucla.edu!
