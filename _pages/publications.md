@@ -29,6 +29,8 @@ Manuscripts In Preparation
 
 **Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
+Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (in prep). *Multi-timepoint pattern analysis (MTPA): Enhanced classification with neural timeseries data.*
+
 **Miao, G.Q.**\*, Lee, A.J.\*, Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
 
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
