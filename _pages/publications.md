@@ -7,7 +7,7 @@ redirect_from:
 ---
 Recent Publications
 ------
-**Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst. 
+**Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst.<br>
 [Online Access](https://journals.sagepub.com/doi/10.1177/17504813241307118) \| [Download PDF](/files/Miao_Stivers_2025_ActivityTransition_ScreenSharing_Pediatric.pdf)
 
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (2024). A Deep Neural Network Approach for Integrating Neural and Behavioral Signals: Multimodal Investigation with fNIRS Hyperscanning and Facial Expressions. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Meeting of the Cognitive Science Society* (pp. 5630-5638). Austin, TX: Cognitive Science Society.<br>
@@ -32,7 +32,7 @@ Manuscripts In Preparation
 
 Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (in prep). *Multi-timepoint pattern analysis (MTPA): Enhanced classification with neural timeseries data.*
 
-**Miao, G.Q.**\*, Lee, A.J.\*, Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
+Lee, A.J.\*, **Miao, G.Q.**\*, Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
 
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
