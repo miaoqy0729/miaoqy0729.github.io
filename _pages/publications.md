@@ -7,7 +7,8 @@ redirect_from:
 ---
 Recent Publications
 ------
-**Miao, G.Q.** & Stivers. T. (In Press). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.*
+**Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst. 
+[Online Access](https://journals.sagepub.com/doi/10.1177/17504813241307118) \| [Download PDF](/files/Miao_Stivers_2025_ActivityTransition_ScreenSharing_Pediatric.pdf)
 
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (2024). A Deep Neural Network Approach for Integrating Neural and Behavioral Signals: Multimodal Investigation with fNIRS Hyperscanning and Facial Expressions. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Meeting of the Cognitive Science Society* (pp. 5630-5638). Austin, TX: Cognitive Science Society.<br>
 [Online Access](https://escholarship.org/uc/item/2pj0b5qb) \| [Download PDF](/files/Miao_etal_2024_DNN_Neural_Facial_CogSci.pdf)
