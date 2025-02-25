@@ -22,7 +22,7 @@ Manuscripts Under Review
 ------
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.*
 
-Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (Under Review). *Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data.* 
+Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (Under Review). *Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/86c29_v1) \| [Download Preprint](/files/Goldstein_Pluta_Miao_etal_MTPA_Preprint.pdf)
 
 
