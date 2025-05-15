@@ -8,7 +8,7 @@ redirect_from:
 Recent Publications
 ------
 **Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. San Francisco, CA: Cognitive Science Society.<br>
-[Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_CogSciPostPrint_CameraReady.pdf)
+[Online Access](https://osf.io/987fm_v1/) \| [Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_CogSciPostPrint_CameraReady.pdf)
 
 **Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst.<br>
 [Online Access](https://journals.sagepub.com/doi/10.1177/17504813241307118) \| [Download PDF](/files/Miao_Stivers_2025_ActivityTransition_ScreenSharing_Pediatric.pdf)
