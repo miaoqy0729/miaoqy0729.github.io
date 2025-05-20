@@ -29,7 +29,7 @@ Working with Prof. [Tanya Stivers](https://scholar.google.com/citations?user=Red
 <br>
 
 In an effort to bridge the three methodological traditions I work across—**social neuroscience**, **cognitive dynamic modeling**, and **qualitative conversation analysis**—I led the development of the **DIMS Dashboard** (*Dynamic Interactions and Multimodal Signals*). This platform enables multimodal dynamic signal visualization by aligning quantitative time series data (e.g., neural and bodily synchrony) with qualitative video footage. One key feature is rapid preview: clicking on a specific time point (e.g., a 5-second window) brings up the corresponding interaction moment, allowing seamless toggling between signal and source. Our goal is for this tool to support more integrative, qualitative–quantitative investigations of interpersonal communication.  
-<br><br>
+<br>
 This platform is available for public access at [tinyurl.com/dimsdashboard](https://tinyurl.com/dimsdashboard).
 
 ![Animated demo of the DIMS Dashboard showing synchronized visualization of neural, bodily, and conversational signals with rapid video preview functionality](/images/DIMSdemo.gif)
