@@ -27,4 +27,13 @@ Contributing to the NSF grant *Identifying Multimodal Signatures of Coordination
 Working with Prof. [Tanya Stivers](https://scholar.google.com/citations?user=Redr2DYAAAAJ&hl=en&oi=ao), I conduct qualitative research using Conversation Analysis. People tend to agree with one another in conversations to build rapport. However, the ability to “be blunt” seems to be an important defining characteristic of true friends. In collaboration with [Keith Cox](https://scholar.google.com/citations?user=3bM3x_wAAAAJ&hl=en&oi=sra), I analyze the assessments participants make in the ConvoConnect dataset to understand how risk-taking practices manifest in getting-to-know-you conversations.
 
 <br>
-As a **passion-driven** researcher with a love for **meaningful connections**, I strive to **bridge the longstanding divide** between qualitative and quantitative methods to decode the mystery behind <u>human connections, vibes, and relationships</u>--ultimately addressing the <u>loneliness epidemic</u>. To learn more about this endeavor, please check out the [DIMS Conference](/dims/) I host, which **brings together experts** to explore dynamic interactions and methodologies in this field.
+
+In an effort to bridge the three methodological traditions I work across—**social neuroscience**, **cognitive dynamic modeling**, and **qualitative conversation analysis**—I led the development of the **DIMS Dashboard** (*Dynamic Interactions and Multimodal Signals*). This platform enables multimodal dynamic signal visualization by aligning quantitative time series data (e.g., neural and bodily synchrony) with qualitative video footage. One key feature is rapid preview: clicking on a specific time point (e.g., a 5-second window) brings up the corresponding interaction moment, allowing seamless toggling between signal and source. Our goal is for this tool to support more integrative, qualitative–quantitative investigations of interpersonal communication.  
+<br><br>
+This platform is available for public access at [tinyurl.com/dimsdashboard](https://tinyurl.com/dimsdashboard).
+
+![Animated demo of the DIMS Dashboard showing synchronized visualization of neural, bodily, and conversational signals with rapid video preview functionality](/images/DIMSdemo.gif)
+
+
+<br>
+As a **passion-driven** researcher with a love for **meaningful connections**, I strive to **bridge the longstanding divide** between qualitative and quantitative methods to decode the mystery behind <u>human connections, vibes, and relationships</u>--ultimately addressing the <u>loneliness epidemic</u>. To learn more about this endeavor, please check out the [DIMS Conference](/dims/) I hosted, which **brought together experts** to explore dynamic interactions and methodologies in this field.
