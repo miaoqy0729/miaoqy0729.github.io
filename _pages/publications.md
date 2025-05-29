@@ -23,6 +23,8 @@ Recent Publications
 
 Manuscripts Under Review
 ------
+**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A. & Dale, R. (in prep). *Conversation depth and connection: An fNIRS study of neural synchrony in the default mode network.*
+
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.*
 
 Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (Under Review). *Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data.* <br>
@@ -31,8 +33,6 @@ Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (U
 
 Manuscripts In Preparation
 ------
-**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A. & Dale, R. (in prep). *Conversation depth and connection: An fNIRS study of neural synchrony in the default mode network.*
-
 **Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
 Lee, A.J.\*, **Miao, G.Q.**\*, Lu, H., Dale, R. & Galati, A. (in prep). *Collaboration over time as Iterative Bayesian Inference within a Dynamical Systems Model.*
