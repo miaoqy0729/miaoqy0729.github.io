@@ -23,7 +23,7 @@ Recent Publications
 
 Manuscripts Under Review
 ------
-**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A. & Dale, R. (Under Review). *Conversation depth and connection: An fNIRS study of neural synchrony in the default mode network.*
+**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A. & Dale, R. (Under Review). *Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network.*
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.*
 
