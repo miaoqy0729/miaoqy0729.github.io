@@ -7,6 +7,9 @@ redirect_from:
 ---
 Recent Publications
 ------
+Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (2025). Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data. *Social Cognitive And Affective Neuroscience, nsaf058.* <br>
+[Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaf058/8160481) \| [Download Preprint](/files/Goldstein_Pluta_Miao_etal_MTPA_SCAN.pdf)
+
 **Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. San Francisco, CA: Cognitive Science Society.<br>
 [Online Access](https://osf.io/987fm_v1/) \| [Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_CogSciPostPrint_CameraReady.pdf)
 
@@ -28,9 +31,6 @@ Manuscripts Under Review
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/4exrw_v1) \| [Download Preprint](/files/DaleLab_Miao_etal_Cognition_Communication_Theoretical_Bridging.pdf)
-
-Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (Under Review). *Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data.* <br>
-[PsyArXiv Access](https://osf.io/preprints/psyarxiv/86c29_v1) \| [Download Preprint](/files/Goldstein_Pluta_Miao_etal_MTPA_Preprint.pdf)
 
 
 Manuscripts In Preparation
