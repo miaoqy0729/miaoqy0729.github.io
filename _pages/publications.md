@@ -40,6 +40,8 @@ Manuscripts In Preparation
 ------
 **Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
+**Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (in prep). *Multimodal Dynamics of Social Interaction: A Deep Neural Network Integration of fNIRS Hyperscanning and Facial Expressions.*
+
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
 **Miao, G.Q.**, Dale, R., & Cooney, G. (in prep). Dynamic Dimensional Analysis of a Large Conversation Corpus.
