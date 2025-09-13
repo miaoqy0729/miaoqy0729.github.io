@@ -29,7 +29,7 @@ Manuscripts Under Review
 **Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (Under Review). *Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network.* <br>
 [bioRxiv Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
 
-Lee, A.J.\*, **Miao, G.Q.**\*, Dale, R., Galati, A., & Lu, H. (Under Review). *Teamwork as Linear Interpersonal Dynamics.* <br>
+Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *Teamwork as Linear Interpersonal Dynamics.* <br>
 [arXiv Access](https://arxiv.org/abs/2509.08811) \| [Download Preprint](/files/Lee_Miao_etal_2025_TeamworkAsLinearInterpersonalDynamics_SequentialBayesian.pdf)
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.* <br>
