@@ -7,11 +7,11 @@ redirect_from:
 ---
 Recent Publications
 ------
-**Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society*. San Francisco, CA: Cognitive Science Society.<br>
-[Online Access](https://osf.io/987fm_v1/) \| [Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_CogSciPostPrint_CameraReady.pdf)
+**Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society* (pp. 1023-1030). San Francisco, CA: Cognitive Science Society.<br>
+[Online Access](https://escholarship.org/uc/item/8gg7474j) \| [Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_for_Exploring_Dynamic_Interactions_and_Multimodal_Signals.pdf)
 
 Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (2025). Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data. *Social Cognitive And Affective Neuroscience, nsaf058.* <br>
-[Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaf058/8160481) \| [Download Preprint](/files/Goldstein_Pluta_Miao_etal_MTPA_SCAN.pdf)
+[Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaf058/8160481) \| [Download PDF](/files/Goldstein_Pluta_Miao_etal_MTPA_SCAN.pdf)
 
 **Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst.<br>
 [Online Access](https://journals.sagepub.com/doi/10.1177/17504813241307118) \| [Download PDF](/files/Miao_Stivers_2025_ActivityTransition_ScreenSharing_Pediatric.pdf)
