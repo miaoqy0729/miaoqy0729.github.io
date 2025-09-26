@@ -30,7 +30,7 @@ Manuscripts Under Review
 [bioRxiv Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
 
 **Miao, G.Q.**, Lieberman, M.D., & Pluta, A. (Under Review). *Current needs and future directions of functional near-infrared spectroscopy (fNIRS) hyperscanning for social interaction research.* <br>
-[PsyArRxiv Access](https://osf.io/preprints/psyarxiv/zmk29_v1) \| [Download Preprint](/files/Miao_Lieberman_Pluta_2025_Review_fNIRS_Hyperscanning_CurrentNeedsFuturePaths_Manuscript.pdf)
+[PsyArXiv Access](https://osf.io/preprints/psyarxiv/zmk29_v1) \| [Download Preprint](/files/Miao_Lieberman_Pluta_2025_Review_fNIRS_Hyperscanning_CurrentNeedsFuturePaths_Manuscript.pdf)
 
 Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *A Bayesian Dynamical System Model of Joint Action and Interpersonal Coordination.* <br>
 [arXiv Access](https://arxiv.org/html/2509.08811v3) \| [Download Preprint](/files/Lee_Miao_etal_2025_BayesianDynamicalSystemModelOfJointActionInterpersonalCoordination.pdf)
