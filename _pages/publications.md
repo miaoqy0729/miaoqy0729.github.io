@@ -46,7 +46,7 @@ Manuscripts In Preparation
 
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
-**Miao, G.Q.**, Dale, R., & Cooney, G. (in prep). Dynamic Dimensional Analysis of a Large Conversation Corpus.
+**Miao, G.Q.**, Dale, R., & Cooney, G. (in prep). *Dynamic Dimensional Analysis of a Large Conversation Corpus.*
 
 Horton, C.J., **Miao, G.Q.**, Walsh, L.C., Rodriguez, A. & Kaufman, V.A. (in prep). *Best friends forever: predictors, correlates, and outcomes of best-friend selection in a large sample survey study.* 
 
