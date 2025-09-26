@@ -13,7 +13,7 @@ Recent Publications
 Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (2025). Multi-timepoint pattern analysis (MTPA): Improving classification with neural timeseries data. *Social Cognitive And Affective Neuroscience, nsaf058.* <br>
 [Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaf058/8160481) \| [Download PDF](/files/Goldstein_Pluta_Miao_etal_MTPA_SCAN.pdf)
 
-**Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication.* OnlineFirst.<br>
+**Miao, G.Q.** & Stivers. T. (2025). Activity transitions and persuasion: Using growth charts in pediatric consultations. *Discourse & Communication. 19*(4), 658-675.<br>
 [Online Access](https://journals.sagepub.com/doi/10.1177/17504813241307118) \| [Download PDF](/files/Miao_Stivers_2025_ActivityTransition_ScreenSharing_Pediatric.pdf)
 
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (2024). A Deep Neural Network Approach for Integrating Neural and Behavioral Signals: Multimodal Investigation with fNIRS Hyperscanning and Facial Expressions. In L. K. Samuelson, S. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), *Proceedings of the 46th Annual Meeting of the Cognitive Science Society* (pp. 5630-5638). Austin, TX: Cognitive Science Society.<br>
