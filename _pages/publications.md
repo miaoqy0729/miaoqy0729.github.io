@@ -29,8 +29,11 @@ Manuscripts Under Review
 **Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (Under Review). *Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network.* <br>
 [bioRxiv Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
 
-Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *Teamwork as Linear Interpersonal Dynamics.* <br>
-[PsyArXiv Access](https://osf.io/preprints/psyarxiv/c6w78_v4) \| [Download Preprint](/files/Lee_Miao_etal_2025_TeamworkAsLinearInterpersonalDynamics_SequentialBayesian.pdf)
+**Miao, G.Q.**, Lieberman, M.D., & Pluta, A. (Under Review). *Current needs and future directions of functional near-infrared spectroscopy (fNIRS) hyperscanning for social interaction research.* <br>
+[PsyArRxiv Access](https://osf.io/preprints/psyarxiv/zmk29_v1) \| [Download Preprint](/files/Miao_Lieberman_Pluta_2025_Review_fNIRS_Hyperscanning_CurrentNeedsFuturePaths_Manuscript.pdf)
+
+Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *A Bayesian Dynamical System Model of Joint Action and Interpersonal Coordination.* <br>
+[arXiv Access](https://arxiv.org/html/2509.08811v3) \| [Download Preprint](/files/Lee_Miao_etal_2025_BayesianDynamicalSystemModelOfJointActionInterpersonalCoordination.pdf)
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/4exrw_v1) \| [Download Preprint](/files/DaleLab_Miao_etal_Cognition_Communication_Theoretical_Bridging.pdf)
@@ -38,7 +41,6 @@ Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under 
 
 Manuscripts In Preparation
 ------
-**Miao, G.Q.**, Pluta, A. & Lieberman, M.D. (in prep). *Hyperscanning With Functional Near Infrared Spectroscopy (fNIRS) In Social Interaction Studies – Systematic Review and Best Practice Recommendations.*
 
 **Miao, G.Q.**, Jiang, Y.J., Binnquist, A., Pluta, A., Steen, F.F., Dale, R., & Lieberman, M.D. (in prep). *Multimodal Dynamics of Social Interaction: A Deep Neural Network Integration of fNIRS Hyperscanning and Facial Expressions.*
 
