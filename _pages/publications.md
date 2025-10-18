@@ -35,6 +35,8 @@ Manuscripts Under Review
 Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *A Bayesian Dynamical System Model of Joint Action and Interpersonal Coordination.* <br>
 [arXiv Access](https://arxiv.org/html/2509.08811v3) \| [Download Preprint](/files/Lee_Miao_etal_2025_BayesianDynamicalSystemModelOfJointActionInterpersonalCoordination.pdf)
 
+Rosen, Z.P., Bainbridge, C., **Miao, G.Q.**, & Dale, R. (Under Review). *Quantifying the dynamics of common ground. *<br>
+
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/4exrw_v1) \| [Download Preprint](/files/DaleLab_Miao_etal_Cognition_Communication_Theoretical_Bridging.pdf)
 
