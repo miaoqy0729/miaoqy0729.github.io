@@ -16,5 +16,5 @@ My work utilizes **naturalistic experiments**, **computational methods**, and **
 
 As a **passion-driven** researcher with a love for **meaningful connections**, I strive to **bridge the longstanding divide** between qualitative and quantitative methods to decode the mystery behind <u>human connections, vibes, and relationships</u>--ultimately addressing the <u>loneliness epidemic</u>. To learn more about this endeavor, please check out the [DIMS Conference](/dims/) I host, which **brings together experts** to explore dynamic interactions and methodologies in this field.
 
-In my free time, I love snowboarding, food tasting, rock climbing, cooking, and traveling. I’ve snowboarded at various ski resorts in California, Utah, and Alaska, and I recently went to Santiago, Chile for fresh powder in August!
+In my free time, I love snowboarding, food tasting, aerial silking, cooking, and traveling. I’ve snowboarded at various ski resorts in California, Utah, Colorado, and Alaska, and I went to Santiago, Chile for fresh powder in August!
 
