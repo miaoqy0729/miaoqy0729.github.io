@@ -7,6 +7,9 @@ redirect_from:
 ---
 Recent Publications
 ------
+**Miao, G.Q.**, Lieberman, I., Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (In Press). Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network. *Social Cognitive and Affective Neuroscience.* <br>
+[bioRxiv Preprint Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
+
 **Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society* (pp. 1023-1030). San Francisco, CA: Cognitive Science Society.<br>
 [Online Access](https://escholarship.org/uc/item/8gg7474j) \| [Download PDF](/files/Miao_etal_2025_DIMS_Dashboard_for_Exploring_Dynamic_Interactions_and_Multimodal_Signals.pdf)
 
@@ -26,9 +29,6 @@ Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (2
 
 Manuscripts Under Review
 ------
-**Miao, G.Q.**\*, Lieberman, I.\*, Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (Under Review). *Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network.* <br>
-[bioRxiv Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
-
 **Miao, G.Q.**, Lieberman, M.D., & Pluta, A. (Under Review). *Current needs and future directions of functional near-infrared spectroscopy (fNIRS) hyperscanning for social interaction research.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/zmk29_v1) \| [Download Preprint](/files/Miao_Lieberman_Pluta_2025_Review_fNIRS_Hyperscanning_CurrentNeedsFuturePaths_Manuscript.pdf)
 
@@ -36,6 +36,8 @@ Lee, A.J., **Miao, G.Q.**, Dale, R., Galati, A., & Lu, H. (Under Review). *A Bay
 [arXiv Access](https://arxiv.org/html/2509.08811v3) \| [Download Preprint](/files/Lee_Miao_etal_2025_BayesianDynamicalSystemModelOfJointActionInterpersonalCoordination.pdf)
 
 Rosen, Z.P., Bainbridge, C., **Miao, G.Q.**, & Dale, R. (Under Review). *Quantifying the dynamics of common ground. *<br>
+
+Horton, C.J.\*, Tissera, H.\*, **Miao, G.Q.**, Walsh, L.C., Rodriguez, A. & Kaufman, V.A. (Under Review). *Who Is Your Best Friend? A Person-Centered Approach to Understanding the Role of Best Friend for Married Individuals. *<br>
 
 Dale, R., Bainbridge, C., Jiang, Y., Lin, L., **Miao, G.Q.** & Rosen, Z. (Under Review). *Bridging Cognition and Communication: Identifying Opportunities for Cross-Disciplinary Connections Using Scientometric Techniques.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/4exrw_v1) \| [Download Preprint](/files/DaleLab_Miao_etal_Cognition_Communication_Theoretical_Bridging.pdf)
@@ -49,8 +51,6 @@ Manuscripts In Preparation
 **Miao, G.Q.**, Cox, K. & Stivers. T. (in prep). *Decoding Rapport Building: Risky Stance Taking Among Stranger Dyads.*
 
 **Miao, G.Q.**, Dale, R., & Cooney, G. (in prep). *Dynamic Dimensional Analysis of a Large Conversation Corpus.*
-
-Horton, C.J., **Miao, G.Q.**, Walsh, L.C., Rodriguez, A. & Kaufman, V.A. (in prep). *Best friends forever: predictors, correlates, and outcomes of best-friend selection in a large sample survey study.* 
 
 Binnquist, A.L., Dolbier, S., **Miao, G.Q.**, Dieffenbach, M., Tabak, B., Muldowney, S., & Lieberman, M.D. (in prep). *Brain state dynamics of cross-ideological communication and interpersonal bonding.*
 
