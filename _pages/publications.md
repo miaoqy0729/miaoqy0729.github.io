@@ -7,7 +7,7 @@ redirect_from:
 ---
 Recent Publications
 ------
-**Miao, G.Q.**, Lieberman, I., Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (In Press). Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network. *Social Cognitive and Affective Neuroscience.* <br>
+**Miao, G.Q.**, Lieberman, I., Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (Accepted). Making new connections: An fNIRS machine learning classification study of neural synchrony in the default mode network. *Social Cognitive and Affective Neuroscience.* <br>
 [bioRxiv Preprint Access](https://www.biorxiv.org/content/10.1101/2025.05.31.656874v1) \| [Download Preprint](/files/Miao_etal_2025_Making_new_connections_An_fNIRS_machine_learning_classification_study_of_neural_synchrony_in_the_default_mode_network_bioRxiv.pdf)
 
 **Miao, G.Q.**, Trujillo J., Bulls L. S., Thornton M. A., Dale R., & Pouw W. (2025). DIMS Dashboard for Exploring Dynamic Interactions and Multimodal Signals. In A. Ruggeri, D. Barner, C. Walker, & N. Bramley (Eds.), *Proceedings of the 47th Annual Conference of the Cognitive Science Society* (pp. 1023-1030). San Francisco, CA: Cognitive Science Society.<br>
