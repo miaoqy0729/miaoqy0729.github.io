@@ -7,6 +7,9 @@ redirect_from:
 ---
 Recent Publications
 ------
+**Miao, G.Q.**, Weiss, M., Ni, Y., & Han, J. (Accepted) DIMS: A No-Code Dashboard Linking Multimodal 
+Dynamic Signals to Communication Practices. *Communication Methods & Measures.* <br>
+
 **Miao, G.Q.**, Lieberman, I., Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (2026). Making new connections: An fNIRS machine learning classification study of inter-brain synchrony in the default mode network. *Social Cognitive and Affective Neuroscience, 21*(1), nsag044 <br>
 [Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsag044/8704828) \| [Download PDF](/files/Miao_etal_2026_MakingNewConnections_fNIRS_MachineLearningClassification_Inter-BrainSynchrony_DefaultModeNetwork_SCAN.pdf)
 
@@ -29,6 +32,9 @@ Goldstein, B.M., Pluta, A., **Miao, G.Q.**, Binnquist, A.L. & Lieberman, M.D. (2
 
 Manuscripts Under Review
 ------
+**Miao, G.Q.**, Rosen, Z.P., Pluta, A., Lieberman, M.D., Dale, R., & Li, Y. (Under Review). *Building Connection 
+Through Conversation: Linguistic Convergence and Neural Complexity in Dyadic Interaction.* 
+
 **Miao, G.Q.**, Lieberman, M.D., & Pluta, A. (Under Review). *Current needs and future directions of functional near-infrared spectroscopy (fNIRS) hyperscanning for social interaction research.* <br>
 [PsyArXiv Access](https://osf.io/preprints/psyarxiv/zmk29_v1) \| [Download Preprint](/files/Miao_Lieberman_Pluta_2025_Review_fNIRS_Hyperscanning_CurrentNeedsFuturePaths_Manuscript.pdf)
 
