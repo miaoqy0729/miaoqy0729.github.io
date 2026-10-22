@@ -7,8 +7,9 @@ redirect_from:
 ---
 Recent Publications
 ------
-**Miao, G.Q.**, Weiss, M., Ni, Y., & Han, J. (Accepted) DIMS: A No-Code Dashboard Linking Multimodal 
-Dynamic Signals to Communication Practices. *Communication Methods & Measures.* <br>
+**Miao, G.Q.**, Weiss, M., Ni, Y., & Han, J. (2026) DIMS: A No-Code Dashboard Linking Multimodal 
+Dynamic Signals to Communication Practices. *Communication Methods & Measures,* 1-17. <br>
+[Online Access](https://www.tandfonline.com/doi/full/10.1080/19312458.2026.2740465) \| [Download PDF](/files/Miao_Weiss_etal_2026_DIMS_NoCodeTutorial_CommMethodsMeasures.pdf)
 
 **Miao, G.Q.**, Lieberman, I., Binnquist, A., Pluta, A., Goldstein, B.M., Dale, R., & Lieberman, M.D. (2026). Making new connections: An fNIRS machine learning classification study of inter-brain synchrony in the default mode network. *Social Cognitive and Affective Neuroscience, 21*(1), nsag044 <br>
 [Online Access](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsag044/8704828) \| [Download PDF](/files/Miao_etal_2026_MakingNewConnections_fNIRS_MachineLearningClassification_Inter-BrainSynchrony_DefaultModeNetwork_SCAN.pdf)
